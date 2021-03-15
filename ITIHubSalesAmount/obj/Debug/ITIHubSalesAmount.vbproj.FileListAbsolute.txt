@@ -1,0 +1,10 @@
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\bin\Debug\ITIHubSalesAmount.exe.config
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\bin\Debug\ITIHubSalesAmount.exe
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\bin\Debug\ITIHubSalesAmount.pdb
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\bin\Debug\ITIHubSalesAmount.xml
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.Resources.resources
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.vbproj.GenerateResource.Cache
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.exe
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.xml
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.pdb
+C:\Users\Alistair Kayyz\Desktop\INTERFACE\ITIHubSalesAmount\ITIHubSalesAmount\obj\Debug\ITIHubSalesAmount.frmRegionalSales.resources
